@@ -1,0 +1,126 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch palinDromeNumber",
+            "request": "launch",
+            "mainClass": "palinDromeNumber",
+            "projectName": "Java DSA_81470d80"
+        },
+        {
+            "type": "java",
+            "name": "Launch happyNumber",
+            "request": "launch",
+            "mainClass": "happyNumber",
+            "projectName": "Java DSA_81470d80"
+        },
+        {
+            "type": "java",
+            "name": "Launch doublylinked",
+            "request": "launch",
+            "mainClass": "doublylinked",
+            "projectName": "Java DSA_81470d80"
+        },
+        {
+            "type": "java",
+            "name": "Launch rotationCount",
+            "request": "launch",
+            "mainClass": "rotationCount",
+            "projectName": "Java DSA_81470d80"
+        },
+        {
+            "type": "java",
+            "name": "Launch binarySearchh",
+            "request": "launch",
+            "mainClass": "binarySearchh",
+            "projectName": "Java DSA_81470d80"
+        },
+        {
+            "type": "java",
+            "name": "Launch DoublyLinkedList",
+            "request": "launch",
+            "mainClass": "DoublyLinkedList",
+            "projectName": "Java DSA_81470d80"
+        },
+        {
+            "type": "java",
+            "name": "Launch linkedLists",
+            "request": "launch",
+            "mainClass": "linkedLists",
+            "projectName": "Java DSA_81470d80"
+        },
+        {
+            "type": "java",
+            "name": "Launch testing",
+            "request": "launch",
+            "mainClass": "testing",
+            "projectName": "JavaScript DSA_90e09a6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch penaltyShootout",
+            "request": "launch",
+            "mainClass": "penaltyShootout",
+            "projectName": "JavaScript DSA_90e09a6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch find1substring",
+            "request": "launch",
+            "mainClass": "find1substring",
+            "projectName": "JavaScript DSA_90e09a6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "JavaScript DSA_90e09a6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch transitionPoint",
+            "request": "launch",
+            "mainClass": "transitionPoint",
+            "projectName": "JavaScript DSA_90e09a6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch numberOfnumbers",
+            "request": "launch",
+            "mainClass": "numberOfnumbers",
+            "projectName": "JavaScript DSA_90e09a6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch binarySearchh",
+            "request": "launch",
+            "mainClass": "binarySearchh",
+            "projectName": "JavaScript DSA_90e09a6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch rotationCount",
+            "request": "launch",
+            "mainClass": "rotationCount",
+            "projectName": "JavaScript DSA_90e09a6b"
+        },
+        {
+            "type": "java",
+            "name": "Launch targetMountainArray",
+            "request": "launch",
+            "mainClass": "targetMountainArray",
+            "projectName": "JavaScript DSA_90e09a6b"
+        }
+    ]
+}
