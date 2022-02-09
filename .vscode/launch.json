@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch removeDuplicates",
+            "request": "launch",
+            "mainClass": "removeDuplicates",
+            "projectName": "Java DSA_81470d80"
+        },
+        {
+            "type": "java",
+            "name": "Launch customStack",
+            "request": "launch",
+            "mainClass": "customStack",
+            "projectName": "Java DSA_81470d80"
+        },
+        {
+            "type": "java",
             "name": "Launch Queues",
             "request": "launch",
             "mainClass": "Queues",
