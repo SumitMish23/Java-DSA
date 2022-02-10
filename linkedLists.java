@@ -4,7 +4,7 @@ import javax.swing.plaf.synth.SynthStyle;
 
 public class linkedLists {
 
-    linkedLists() {
+    linkedLists(){ 
         this.size = 0;
     }
 

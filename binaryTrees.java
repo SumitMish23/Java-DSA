@@ -1,20 +1,34 @@
 public class binaryTrees {
-
-
-    
-    public class tree{
+       
+      public  void showtreein(binaryTrees t){
+          if(t==null)
+          {
+              return;
+          }
+          else{
+             System.out.println(" "+t.val);
+             System.out.println("/");
+             showtreein(t.left);
+          }
+      }
+  
         int val;
-        tree left;
-        tree right;
-        tree(int value){
+        binaryTrees left;
+        binaryTrees right;
+        binaryTrees(int value){
             this.val=value;
-            this.left=null;
-            this.right=null;
-        }
+           
+        
     }
     public static void main(String args[]) {
-        tree t=new tree(16);
+        binaryTrees bt=new binaryTrees(4);
+        bt.left=new binaryTrees(100);
+        bt.left.left=new binaryTrees(300);
+        bt.right=new binaryTrees(200);
         
+       bt.showtreein(bt);
+        
+       
 
     }
 }
