@@ -21,6 +21,7 @@ public class happyNumber {
     public static void main(String[] args)
     {
            int A=19;
+            // Testing the function with a happy number (19)
            System.out.println(isHappy(A));
     }
     

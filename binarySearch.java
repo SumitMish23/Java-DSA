@@ -10,6 +10,7 @@ class binarySearchh {
         System.out.println("The index of the element is " + Value);
 
     }
+    
 
    static int bs(int arr[],int low,int high,int k)
     {
